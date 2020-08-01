@@ -4,7 +4,11 @@
 
 A curated list of awesome resources on the management of AI.
 
-- [Fairness, Accountability, and Transparency](#fairness-accountability-and-transparency)
+- [Responsible use of AI](#responsible-use-of-ai)
+- [Interpretability](#interpretability)
+- [Privacy](#privacy)
+- [Security](#security)
+- [Degree programs and certificates](#degree-programs-and-certificates)
 - [Contributing](#contributing)
 
 ---
