@@ -11,6 +11,8 @@ A curated list of awesome resources on the management of AI.
 
 ## Fairness, Accountability, and Transparency
 
+[ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
+
 ## Contributing
 
 **How to contribute to this list.**
