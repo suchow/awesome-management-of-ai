@@ -26,7 +26,7 @@ A curated list of awesome resources on the management of AI.
 ## Security
 
 ## Degree programs and certificates
-
+https://docs.google.com/spreadsheets/d/1A3LOVfa9YncaQ6nxtGksD0bCNFBSv96F2lUiCEM-P7w/edit#gid=693504467
 ## Contributing
 
 **How to contribute to this list.**
