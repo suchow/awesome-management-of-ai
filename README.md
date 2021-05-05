@@ -15,9 +15,9 @@ A curated list of awesome resources on the management of AI.
 
 ## Responsible use of AI
 
-[ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
-[The Algorithmic Justice League](https://www.ajl.org/)
-[RE•WORK Responsible AI Summit](https://www.re-work.co/events/responsible-ai-summit-montreal-2019)
+- [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/)
+- [The Algorithmic Justice League](https://www.ajl.org/)
+- [RE•WORK Responsible AI Summit](https://www.re-work.co/events/responsible-ai-summit-montreal-2019)
 
 ## Interpretability
 
